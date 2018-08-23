@@ -23,6 +23,7 @@
     android:layout_height="match_parent"
     android:isScrollContainer="true">
 
+    <!-- Radio buttons -->
     <RadioButton
         android:id="@+id/linear_layout_rb"
         android:layout_width="0dp"
